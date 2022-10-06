@@ -1,0 +1,37 @@
+body {
+font-family: 'Alkalami', serif;
+background: orange;
+}
+
+.header_div{
+    background: white;
+    color: aqua;
+}
+
+.header_div p{
+font-family: 'Alkalami', serif;
+color: blue;
+letter-spacing: 2px;
+font-size: 15px;
+font-weight: bold;
+}
+
+.main_div button{
+    font-family: 'Alkalami', serif;
+    margin-top: 30px;
+    width:130px;
+    font-weight: bolder;
+    letter-spacing: 3px;
+}
+
+.copy_right_footer{
+    position: fixed;
+    color: black;
+    bottom: 0;
+    width: 100%;
+    font-size: 18px;
+    background-color: aquamarine;
+    line-height: 3;
+    text-align: center;
+    text-shadow: 3px 3px 3px rgb(44, 219, 21);
+}
